@@ -1,3 +1,7 @@
+/*Write a C program to create a child process using the system
+call fork( ) and from the child process, display the PID and PPID and
+also display the same from parent process. Demonstarte the use of
+exit(0) and exit(1).*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
